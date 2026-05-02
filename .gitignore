@@ -1,0 +1,11 @@
+node_modules/
+.env
+python/.env
+*.log
+__pycache__/
+*.pyc
+*.csv
+*.png
+*.json
+!package.json
+!package-lock.json
